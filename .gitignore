@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+
+# Dados do modo local (banco em JSON e arquivos enviados)
+data/
+
+.env
+.env.local
+.env*.local
+.DS_Store
